@@ -4,6 +4,7 @@ This kit has the most basic libs to get started to create web app 🎒🚀
 To run the server run the following command:
 
 ```javascript
+npm install
 npm run server
 ```
 
